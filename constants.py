@@ -12,7 +12,7 @@ CONST.SEARCH_APP_TOKEN = 'S4.TS4App'
 # например 5 - для всех 5ЭТ.###
 CONST.RANGES_WITH_SB_DRAWS = [0, 1, 5, 6]
 
-# Токен для com-объекта Search
+# Инфикс компании
 CONST.COMPANY_ID_INFIX = 'ЭТ'
 
 # Запуск модуля по умолчанию
